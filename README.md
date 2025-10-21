@@ -26,19 +26,12 @@ Please note that the `requirements.txt` file will be updated in the near future 
 If you use this repo for your research, please cite our paper:
 
 ```
-@article{DBLP:journals/corr/abs-2404-09146,
-  author       = {Wenhao Dong and
-                  Haodong Zhu and
-                  Shaohui Lin and
-                  Xiaoyan Luo and
-                  Yunhang Shen and
-                  Xuhui Liu and
-                  Juan Zhang and
-                  Guodong Guo and
-                  Baochang Zhang},
-  title        = {Fusion-Mamba for Cross-modality Object Detection},
-  journal      = {CoRR},
-  year         = {2024}
+@article{dong2025fusion,
+  title={Fusion-mamba for cross-modality object detection},
+  author={Dong, Wenhao and Zhu, Haodong and Lin, Shaohui and Luo, Xiaoyan and Shen, Yunhang and Guo, Guodong and Zhang, Baochang},
+  journal={IEEE Transactions on Multimedia},
+  year={2025},
+  publisher={IEEE}
 }
 ```
 
